@@ -2,7 +2,7 @@
 
 Official code for the paper **SelfEvolvingVQ**.
 
-[**Paper**](#) | [**Project Page**](#)
+[**Paper**](#) | [**Project Page**](https://joliang17.github.io/SelfEvolvingVQG/)
 
 
 
