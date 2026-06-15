@@ -1,0 +1,155 @@
+[
+    {
+        "task_id": 0,
+        "task_name": "Object Detection",
+        "category_path": [
+            "Perception",
+            "Recognition & Localization"
+        ],
+        "definition": "Identify and localize objects within an image or scene, typically returning bounding boxes or masks."
+    },
+    {
+        "task_id": 1,
+        "task_name": "Object Classification",
+        "category_path": [
+            "Perception",
+            "Recognition & Localization"
+        ],
+        "definition": "Assign detected objects to one or more predefined categories, such as 'cat', 'car', or 'chair'."
+    },
+    {
+        "task_id": 2,
+        "task_name": "Attribute Recognition",
+        "category_path": [
+            "Perception",
+            "Recognition & Localization"
+        ],
+        "definition": "Identify descriptive properties of objects, such as color, shape, texture, size, or material."
+    },
+    {
+        "task_id": 3,
+        "task_name": "Pattern Recognition",
+        "category_path": [
+            "Perception",
+            "Recognition & Localization"
+        ],
+        "definition": "Identify recurring arrangements, shapes, or textures that indicate structured or repetitive patterns."
+    },
+    {
+        "task_id": 4,
+        "task_name": "Spatial Reasoning",
+        "category_path": [
+            "Visual Understanding & Reasoning",
+            "Spatial Understanding"
+        ],
+        "definition": "Understand positional and geometric relationships between objects, including distance, orientation, and relative placement in 2D or 3D space."
+    },
+    {
+        "task_id": 8,
+        "task_name": "Event Understanding",
+        "category_path": [
+            "Temporal & Procedural Understanding",
+            "Events & Activities"
+        ],
+        "definition": "Recognize and interpret events in a scene, including participants, sequence, and possible triggers or consequences."
+    },
+    {
+        "task_id": 9,
+        "task_name": "Action Prediction",
+        "category_path": [
+            "Temporal & Procedural Understanding",
+            "Dynamics & Prediction"
+        ],
+        "definition": "Forecast the next likely action in a sequence based on observed movements, context, and patterns."
+    },
+    {
+        "task_id": 19,
+        "task_name": "Fact Recall",
+        "category_path": [
+            "Knowledge & Semantic Inference",
+            "Factual & Instructional"
+        ],
+        "definition": "Retrieve or restate explicitly presented facts, names, numbers, or properties."
+    },
+    {
+        "task_id": 21,
+        "task_name": "Implicit Relation Inference",
+        "category_path": [
+            "Knowledge & Semantic Inference",
+            "Discourse & Semantics"
+        ],
+        "definition": "Infer unstated relations (e.g., roles, part\u2013whole, ownership) from context."
+    },
+    {
+        "task_id": 24,
+        "task_name": "Commonsense Reasoning",
+        "category_path": [
+            "Knowledge & Semantic Inference",
+            "Commonsense & World Knowledge"
+        ],
+        "definition": "Apply everyday physical, social, and cultural knowledge to interpret situations or make plausible inferences."
+    },
+    {
+        "task_id": 26,
+        "task_name": "Logical Reasoning",
+        "category_path": [
+            "Logical & Analytical Reasoning",
+            "Formal & Informal Logic"
+        ],
+        "definition": "Use deductive, inductive, or formal logic to derive valid conclusions from given premises."
+    },
+    {
+        "task_id": 27,
+        "task_name": "Causal Reasoning",
+        "category_path": [
+            "Logical & Analytical Reasoning",
+            "Formal & Informal Logic"
+        ],
+        "definition": "Identify cause-and-effect relationships between events, actions, or conditions."
+    },
+    {
+        "task_id": 28,
+        "task_name": "Multi-Step Reasoning",
+        "category_path": [
+            "Logical & Analytical Reasoning",
+            "Formal & Informal Logic"
+        ],
+        "definition": "Decompose a problem into sequential sub-steps and integrate intermediate results."
+    },
+    {
+        "task_id": 29,
+        "task_name": "Abductive Reasoning",
+        "category_path": [
+            "Logical & Analytical Reasoning",
+            "Formal & Informal Logic"
+        ],
+        "definition": "Infer the most plausible explanation for incomplete or surprising observations."
+    },
+    {
+        "task_id": 30,
+        "task_name": "Analogical Reasoning",
+        "category_path": [
+            "Logical & Analytical Reasoning",
+            "Formal & Informal Logic"
+        ],
+        "definition": "Map structure from a known scenario to a new one to transfer insights or solutions."
+    },
+    {
+        "task_id": 31,
+        "task_name": "Constraint Satisfaction",
+        "category_path": [
+            "Logical & Analytical Reasoning",
+            "Constraint & Systemic Reasoning"
+        ],
+        "definition": "Satisfy a set of constraints or rules to find consistent assignments or solutions."
+    },
+    {
+        "task_id": 38,
+        "task_name": "Social Reasoning",
+        "category_path": [
+            "Social & Pragmatic Reasoning",
+            "Social Dynamics"
+        ],
+        "definition": "Understand social relationships, norms, intentions, and dynamics in a given context."
+    }
+]

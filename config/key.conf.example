@@ -1,0 +1,2 @@
+# Copy this to config/key.conf and fill in your local secrets.
+export OPENAI_API_KEY=""
