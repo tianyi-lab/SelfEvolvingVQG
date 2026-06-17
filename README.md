@@ -28,7 +28,7 @@ Official code for the paper **Self-Evolving Visual Questioner**.
 ## Repository Structure
 
 ```text
-SelfEvolvingVQ/
+SeeQ/
 |-- config/
 |   |-- key.conf.example
 |   `-- task_definition.json
