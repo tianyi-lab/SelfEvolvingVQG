@@ -1,7 +1,7 @@
-# SelfEvolvingVQ
+# Self-Evolving Visual Questioner
 
 ![Cover Figure overview](assets/coverimage2.png)
-Official code for the paper **SelfEvolvingVQ**.
+Official code for the paper **Self-Evolving Visual Questioner**.
 
 [**Paper**](https://arxiv.org/abs/2606.13929) | [**Project Page**](https://joliang17.github.io/SelfEvolvingVQG/)
 
