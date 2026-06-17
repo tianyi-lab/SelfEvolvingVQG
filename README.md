@@ -169,10 +169,13 @@ export BATCH_SIZE=8
 ## Citation
 
 ```bibtex
-@misc{selfevolvingvq,
-  title        = {SelfEvolvingVQ},
-  author       = {Coming soon},
-  year         = {Coming soon},
-  howpublished = {Coming soon}
+@misc{liang2026selfevolvingvisualquestioner,
+      title={Self-Evolving Visual Questioner}, 
+      author={Yijun Liang and Hengguang Zhou and Ming Li and Lichen Li and Cho-Jui Hsieh and Tianyi Zhou},
+      year={2026},
+      eprint={2606.13929},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.13929}, 
 }
 ```
